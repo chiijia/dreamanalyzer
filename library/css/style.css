@@ -1,0 +1,33 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #2e2c55;
+  color: #fff;
+  padding: 20px;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: #3b3962;
+  padding: 20px;
+  border-radius: 8px;
+}
+textarea {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 10px;
+}
+button {
+  padding: 10px 15px;
+  font-weight: bold;
+  background: #6c5ce7;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+ul li {
+  background: #4b4a74;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
